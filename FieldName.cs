@@ -10,5 +10,10 @@ namespace ConsoleApp2
         Field2,
         Field3,
         Field4,
+        Field5,
+        Field6,
+        Field7,
+        Field8,
+        Field9,
     }
 }
